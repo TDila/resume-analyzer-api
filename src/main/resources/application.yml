@@ -16,6 +16,3 @@ spring:
 
 server:
   port: 8080
-
-openai:
-  api-key: YOUR_OPEN_API_KEY
