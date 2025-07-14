@@ -19,5 +19,8 @@ spring:
       max-file-size: 5MB
       max-request-size: 5MB
 
+openai:
+  api-key: ${OPENAI_API_KEY}
+
 server:
   port: 8080
