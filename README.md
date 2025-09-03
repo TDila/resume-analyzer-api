@@ -98,4 +98,4 @@ The API will run at `http://localhost:8080`
 ## Postman Collection
 You can view and test the API using the published Postman collection:
 
-[Open AI-Powered Resume Analyzer Postman Collection](https://documenter.getpostman.com/view/22820614/2sB3HjNMut)
+[Open AI-Powered Resume Analyzer Postman Collection](https://documenter.getpostman.com/view/22820614/2sB3HjNgnT)
