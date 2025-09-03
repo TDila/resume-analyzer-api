@@ -94,3 +94,8 @@ The API will run at `http://localhost:8080`
   "summary": "The candidate's skills in Java, REST API development, and databases match well with the job requirements..."
 }
 ```
+
+## Postman Collection
+You can view and test the API using the published Postman collection:
+
+[Open AI-Powered Resume Analyzer Postman Collection](https://documenter.getpostman.com/view/22820614/2sB3HjNMut)
