@@ -61,7 +61,8 @@ The API will run at `http://localhost:8080`
 ```json
 {
   "resumeText": "Experienced Java developer with Spring Boot, REST API..."
-}```
+}
+```
 
 ### 2. Analyze Resume
 - **URL:** `/api/resumes/analyze`
@@ -72,7 +73,8 @@ The API will run at `http://localhost:8080`
 {
   "resumeText": "Extracted resume text from /upload",
   "jobDescription": "Looking for a Java Backend Developer skilled in Spring Boot, REST APIs, and MySQL"
-}```
+}
+```
 
 **Example Response:**
 ```json
@@ -90,4 +92,5 @@ The API will run at `http://localhost:8080`
     "CI/CD pipelines"
   ],
   "summary": "The candidate's skills in Java, REST API development, and databases match well with the job requirements..."
-}```
+}
+```
