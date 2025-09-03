@@ -4,12 +4,14 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.List;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class ResumeAnalysisResult {
     private int skillMatchPercentage;
-    private String matchingSkills;
-    private String missingSkills;
+    private List<String> matchingSkills;
+    private List<String> missingSkills;
     private String summary;
 }
